@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.996a8b60.chunk.css",
+    "main.js": "/static/js/main.e9985da9.chunk.js",
+    "main.js.map": "/static/js/main.e9985da9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9670125e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9670125e.js.map",
+    "static/js/2.d0208960.chunk.js": "/static/js/2.d0208960.chunk.js",
+    "static/js/2.d0208960.chunk.js.map": "/static/js/2.d0208960.chunk.js.map",
+    "static/js/3.649a1938.chunk.js": "/static/js/3.649a1938.chunk.js",
+    "static/js/3.649a1938.chunk.js.map": "/static/js/3.649a1938.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.996a8b60.chunk.css.map": "/static/css/main.996a8b60.chunk.css.map",
+    "static/js/2.d0208960.chunk.js.LICENSE.txt": "/static/js/2.d0208960.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/BarBlackObsidian.94fe7113.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9670125e.js",
+    "static/js/2.d0208960.chunk.js",
+    "static/css/main.996a8b60.chunk.css",
+    "static/js/main.e9985da9.chunk.js"
+  ]
+}
